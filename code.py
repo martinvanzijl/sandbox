@@ -1,2 +1,2 @@
 """A Python file."""
-print "Hello";
+print "Hello World";
